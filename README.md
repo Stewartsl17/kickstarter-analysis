@@ -4,5 +4,4 @@ In this project, we were tasked with analyzing a dataset of Kickstarter campaign
 ## Conclusions
 ![](https://github.com/Stewartsl17/kickstarter-analysis/blob/master/Outcomes.png)
 ![](https://github.com/Stewartsl17/kickstarter-analysis/blob/master/Outcomes2.png)
-
 ## Recommendations
