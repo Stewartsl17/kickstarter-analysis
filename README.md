@@ -5,5 +5,5 @@ In this project, we were tasked with analyzing a dataset of Kickstarter campaign
 
 ![](https://github.com/Stewartsl17/kickstarter-analysis/blob/master/Outcomes.png)
 
-![](https://github.com/Stewartsl17/kickstarter-analysis/blob/master/ParentCategory.png)
+![](https://github.com/Stewartsl17/kickstarter-analysis/blob/master/Parent%20Category.png)
 ## Recommendations
