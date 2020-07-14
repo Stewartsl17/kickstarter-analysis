@@ -17,3 +17,4 @@ In this project, we were tasked with analyzing a dataset of Kickstarter campaign
 
 ## Recommendations
 In conclusion, given the data analysis, future Kickstarter campaigns that are focused on Theater should be started in May in order to have the best chance of achieving success. In other analysis, the average pledged donation for successful kickstarter campaigns is around $5600 so future campaigns should aim to be have a goal of around that amount in order to be successful. 
+ 
